@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Cristopher</h2>
+<h2 align="center">Hello world! 👋</h2>
 
 I'm a PhD student at SISSA, exploring the theoretical foundations of machine learning. My current research focuses on understanding how data correlations shape the learning dynamics of neural networks.
 
