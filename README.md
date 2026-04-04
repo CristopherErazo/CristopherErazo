@@ -5,7 +5,7 @@ I'm a PhD student at SISSA, exploring the theoretical foundations of machine lea
 ---
 
 ### 🎓 Background
-- 🎓 **PhD Student in Theoretical Machine Learning** @ [SISSA](https://www.sissa.it/) [(Webpage)](https://datascience.sissa.it/person/380/cristopher-erazo)
+- 🎓 **PhD Student in Theoretical and Scientific Data Science** @ [SISSA](https://www.sissa.it/) [(Webpage)](https://datascience.sissa.it/person/380/cristopher-erazo)
 - 🎓 **Postgraduate Diploma in Quantitative Life Sciences** @ [ICTP](https://www.ictp.it/) [(News)](https://www.ictp.it/news/2024/8/stories-2024-ictp-diploma-graduates-4)
 - 🎓 **Bachelor’s in Physics** @ [Escuela Politécnica Nacional](https://www.epn.edu.ec/)
 
