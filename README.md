@@ -9,7 +9,10 @@
 <!-- profile:links:end -->
 </p>
 
-I'm a PhD student at SISSA, exploring the theoretical foundations of machine learning. My current research focuses on understanding how data correlations shape the learning dynamics of neural networks.
+I'm a PhD student at SISSA, exploring the theoretical foundations of machine learning.
+<!-- profile:intro:start -->
+I use statistical physics and information theory to study the training dynamics and learned representations of neural networks. Right now I'm working out how in-context learning emerges in transformers during training, and what drives it.
+<!-- profile:intro:end -->
 
 <!-- Blocks between "profile:*" markers are generated from the private profile repo (python pk.py readme); edit the data there, not here. Everything else is handwritten. -->
 
