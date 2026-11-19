@@ -4,7 +4,7 @@
 <a href="https://datascience.sissa.it/person/380/cristopher-erazo"><img src="https://img.shields.io/badge/Homepage-1F3A68?style=flat-square&logo=googlescholar&logoColor=white" alt="Homepage"></a>
 <a href="https://www.linkedin.com/in/cristopher-erazo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:cerazova@sissa.it"><img src="https://img.shields.io/badge/Email-5E6672?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
-<a href="https://github.com/CristopherErazo/CristopherErazo/blob/main/Erazo_Cristopher_CV.pdf"><img src="https://img.shields.io/badge/CV-1F3A68?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"></a>
+<a href="https://cristophererazo.github.io/CristopherErazo/Erazo_Cristopher_CV.pdf"><img src="https://img.shields.io/badge/CV-1F3A68?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"></a>
 </p>
 
 I'm a PhD student at SISSA, exploring the theoretical foundations of machine learning. I use statistical physics and information theory to study the training dynamics and learned representations of neural networks. Right now I'm working out how in-context learning emerges in transformers during training, and what drives it.
